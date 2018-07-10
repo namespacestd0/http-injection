@@ -1,0 +1,1 @@
+first change the encoding to uncompressed data, then change content length to include extra iframe, then change the ack and seq number to make everthing make sense. Separate incoming and outcoming traffic to apply different offsets.
